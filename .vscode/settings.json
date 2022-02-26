@@ -1,0 +1,6 @@
+{
+    "editor.defaultFormatter": "Shopify.theme-check-vscode",
+    "emmet.includeLanguages": { "liquid": "html" },
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+}
